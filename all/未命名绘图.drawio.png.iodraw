@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KNFLfhAOtk0aOxvPvWmO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KNFLfhAOtk0aOxvPvWmO-1" target="KNFLfhAOtk0aOxvPvWmO-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KNFLfhAOtk0aOxvPvWmO-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="30" height="60" as="geometry" />
         </mxCell>
@@ -29,6 +26,12 @@
         </mxCell>
         <mxCell id="KNFLfhAOtk0aOxvPvWmO-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KNFLfhAOtk0aOxvPvWmO-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="240" as="sourcePoint" />
+            <mxPoint x="350" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
